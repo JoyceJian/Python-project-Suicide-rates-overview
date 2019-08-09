@@ -40,8 +40,8 @@ statistical testing
 
 ### Summary
 
-![poster](summary\poster.pdf)
-
+<!---![poster](summary\poster.png)--->
+<img src="summary\poster.png" width="800" /> ![poster](summary\poster.png)
 ## Reference
 
 United Nations Development Program. (2018). Human development index (HDI).
