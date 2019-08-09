@@ -38,6 +38,8 @@ Retrieved coordinates from Google Map using API and imported into the DataFrame
 Analyzed output using line of best fit (linear/non-linear regression model) and
 statistical testing
 
+![poster](summary poster.jpg)
+
 ## Reference
 
 United Nations Development Program. (2018). Human development index (HDI).
