@@ -25,11 +25,14 @@ GDP
 
 **Pandas, Numpy:**
 Restructured raw data and performed scientific computing for analysis
+
 **Matplotlib:**
 Visualized analysis results and plotted findings using line chart, bar plot, scattered
 plot and Google Heatmap
+
 **API, JSON, Python Requests:**
 Retrieved coordinates from Google Map using API and imported into the DataFrame
+
 **Data Modeling:**
 Analyzed output using line of best fit (linear/non-linear regression model) and
 statistical testing
