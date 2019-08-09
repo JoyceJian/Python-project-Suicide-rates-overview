@@ -40,7 +40,7 @@ statistical testing
 
 ### Summary
 
-![poster](summary\poster.png)
+![poster](summary\poster.pdf)
 
 ## Reference
 
