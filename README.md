@@ -1,4 +1,4 @@
-# Python project-Suicide rates overview
+# Python Project - Suicide rates overview
 
 ## Overview
 
@@ -10,16 +10,14 @@ trends in suicide rates over the years; and related questions, as the data admit
 
 This compiled dataset pulled from four other datasets linked by time and place, and
 was built to find signals correlated to increased suicide rates among different
-cohorts globally, across the socio-economic spectrum
+cohorts globally, across the socio-economic spectrum.
 https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016.
 
 The datasets includes the following information that we can use to analyze factors
 related to suicide rates:
 
-- Years
-- Age Group
-- Gender
-- Country/Location
+- Years | - Age Group
+- Gender | - Country/Location
 - GDP
 
 ## Methods Used
