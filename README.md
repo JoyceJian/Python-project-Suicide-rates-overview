@@ -26,7 +26,7 @@ related to suicide rates:
 
 **Pandas, Numpy:**
 <!--![pandas logo](Images/Python-NumPy-14.png){:height="50%" width="50%"} -->
-<img src="Images/Python-NumPy-14.png" width="50">
+<img src="Images/Python-NumPy-14.png" width="200">
 
 Restructured raw data and performed scientific computing for analysis
 
