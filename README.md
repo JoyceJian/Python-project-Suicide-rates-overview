@@ -16,23 +16,29 @@ https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016.
 The datasets includes the following information that we can use to analyze factors
 related to suicide rates:
 
-| - Years | - Age Group |
-| - Gender | - Country/Location |
-| - GDP |
+- Years 
+- Age Group 
+- Gender 
+- Country/Location 
+- GDP 
 
 ## Methods Used
 
 **Pandas, Numpy:**
+
 Restructured raw data and performed scientific computing for analysis
 
 **Matplotlib:**
+
 Visualized analysis results and plotted findings using line chart, bar plot, scattered
 plot and Google Heatmap
 
 **API, JSON, Python Requests:**
+
 Retrieved coordinates from Google Map using API and imported into the DataFrame
 
 **Data Modeling:**
+
 Analyzed output using line of best fit (linear/non-linear regression model) and
 statistical testing
 
