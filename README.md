@@ -25,7 +25,7 @@ related to suicide rates:
 ## Methods Used
 
 **Pandas, Numpy:**
-![pandas logo](Images/Python-NumPy-14.png){:width="50px"}
+![pandas logo](Images/Python-NumPy-14.png){:height="50%" width="50%"}
 
 Restructured raw data and performed scientific computing for analysis
 
