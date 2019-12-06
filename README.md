@@ -31,17 +31,19 @@ related to suicide rates:
 
 Restructured raw data and performed scientific computing for analysis
 
-<img src="Images/matplotlib.jpg" width="200">
 
 **Matplotlib:**
+
+<img src="Images/matplotlib.jpg" width="200">
 
 Visualized analysis results and plotted findings using line chart, bar plot, scattered
 plot and Google Heatmap
 
-<img src="Images/api logo.png" width="100">
-<img src="Images/json.jpeg" width="200">
 
 **API, JSON, Python Requests:**
+
+<img src="Images/api logo.png" width="100">
+<img src="Images/json.jpeg" width="200">
 
 Retrieved coordinates from Google Map using API and imported into the DataFrame
 
