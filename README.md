@@ -24,7 +24,7 @@ related to suicide rates:
 
 ## Methods Used
 
-**Pandas, Numpy:**
+- **Pandas, Numpy:**
 
 <img src="Images/Python-NumPy-14.png" width="200">
 <img src="Images/pandas_logo.png" width="200">
@@ -32,7 +32,8 @@ related to suicide rates:
 Restructured raw data and performed scientific computing for analysis
 
 
-**Matplotlib:**
+
+- **Matplotlib:**
 
 <img src="Images/matplotlib.jpg" width="200">
 
@@ -40,14 +41,14 @@ Visualized analysis results and plotted findings using line chart, bar plot, sca
 plot and Google Heatmap
 
 
-**API, JSON, Python Requests:**
+- **API, JSON, Python Requests:**
 
 <img src="Images/api logo.png" width="100">
 <img src="Images/json.jpeg" width="200">
 
 Retrieved coordinates from Google Map using API and imported into the DataFrame
 
-**Data Modeling:**
+- **Data Modeling:**
 
 Analyzed output using line of best fit (linear/non-linear regression model) and
 statistical testing
