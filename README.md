@@ -25,17 +25,20 @@ related to suicide rates:
 ## Methods Used
 
 **Pandas, Numpy:**
-<!--![pandas logo](Images/Python-NumPy-14.png){:height="50%" width="50%"} -->
 <img src="Images/Python-NumPy-14.png" width="200">
+<img src="Images/pandas_logo.png" width="200">
 
 Restructured raw data and performed scientific computing for analysis
 
 **Matplotlib:**
+<img src="Images/matplotlib.jpg" width="200">
 
 Visualized analysis results and plotted findings using line chart, bar plot, scattered
 plot and Google Heatmap
 
 **API, JSON, Python Requests:**
+<img src="Images/api logo.png" width="100">
+<img src="Images/json.jpeg" width="200">
 
 Retrieved coordinates from Google Map using API and imported into the DataFrame
 
