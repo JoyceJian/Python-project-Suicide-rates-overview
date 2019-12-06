@@ -23,10 +23,11 @@ related to suicide rates:
 - GDP 
 
 ## Methods Used
-<img src="Images/Python-NumPy-14.png" width="200">
-<img src="Images/pandas_logo.png" width="200">
 
 **Pandas, Numpy:**
+
+<img src="Images/Python-NumPy-14.png" width="200">
+<img src="Images/pandas_logo.png" width="200">
 
 Restructured raw data and performed scientific computing for analysis
 
