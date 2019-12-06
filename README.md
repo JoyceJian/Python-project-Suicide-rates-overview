@@ -23,22 +23,24 @@ related to suicide rates:
 - GDP 
 
 ## Methods Used
-
-**Pandas, Numpy:**
 <img src="Images/Python-NumPy-14.png" width="200">
 <img src="Images/pandas_logo.png" width="200">
 
+**Pandas, Numpy:**
+
 Restructured raw data and performed scientific computing for analysis
 
-**Matplotlib:**
 <img src="Images/matplotlib.jpg" width="200">
+
+**Matplotlib:**
 
 Visualized analysis results and plotted findings using line chart, bar plot, scattered
 plot and Google Heatmap
 
-**API, JSON, Python Requests:**
 <img src="Images/api logo.png" width="100">
 <img src="Images/json.jpeg" width="200">
+
+**API, JSON, Python Requests:**
 
 Retrieved coordinates from Google Map using API and imported into the DataFrame
 
